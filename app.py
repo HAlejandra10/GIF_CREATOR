@@ -14,5 +14,8 @@ image_list[0].save(
             duration=1000, # in milliseconds
             loop=0)
 
+#The image must be the same dimensions
+
+
 
 
